@@ -69,16 +69,16 @@
 
     <!-- PROJETO 1 -->
     <div class="project">
-        <h3>📌 Clipping de Notícias Automatizado</h3>
+        <h3>PensionOne</h3>
         <p>
-            Sistema backend que coleta, classifica e exporta notícias usando  
-            Django, Celery, Redis e PostgreSQL. Possui filtros avançados,
-            importação via Excel e automação diária.
+        Este projeto consiste em um sistema completo para gestão e análise de adesão a planos de previdência privada, desenvolvido para simular e organizar todo o ciclo de relacionamento entre cliente e produto financeiro.
+        A aplicação permite o cadastro detalhado de clientes, a seleção de planos, a realização de aportes adicionais e o gerenciamento de resgates, garantindo controle, rastreabilidade e segurança em cada etapa do processo.
+        O objetivo principal do sistema é oferecer uma visão clara e estruturada da jornada do cliente, apoiando decisões financeiras e proporcionando uma experiência simples e eficiente para usuários e administradores.
         </p>
-        <p><strong>Tecnologias:</strong> Django, Celery, Redis, PostgreSQL, API REST</p>
+        <p><strong>Tecnologias:</strong> FastAPI, Celery, Redis, PostgreSQL, API REST, AWS (EC2, RDS)</p>
         <p>
-            <a href="https://github.com/SEU_USUARIO/REPO" target="_blank">
-                🔗 Ver no GitHub
+            <a href="https://github.com/IvanCampelo22/pension-one" target="_blank">
+                Ver no GitHub
             </a>
         </p>
     </div>
