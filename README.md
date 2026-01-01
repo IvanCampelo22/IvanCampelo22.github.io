@@ -84,12 +84,15 @@
 
     <!-- PROJETO 2 -->
     <div class="project">
-        <h3>Ascly</h3>
+        <h3>Askly</h3>
         <p>
-            Plataforma backend para criação dinâmica de pesquisas e automação de NPS, com envio multi-canal e arquitetura escalável.
-            A plataforma oferece suporte a lógicas complexas de formulários, processamento automatizado de dados, histórico de respostas e execução de tarefas assíncronas, fornecendo uma infraestrutura completa para análise da experiência do cliente e apoio à tomada de decisão estratégica.
+        Askly é uma plataforma backend desenvolvida para empresas que buscam segurança, flexibilidade e escalabilidade no processo de realização de pesquisas de mercado e coleta de NPS (Net Promoter Score).
+        
+        Inspirado na robustez e na experiência dinâmica do Google Forms, o Askly permite a criação de formulários totalmente personalizáveis e sua distribuição por múltiplos canais, incluindo E-mail, WhatsApp e Telegram, aumentando significativamente a taxa de resposta e a qualidade dos dados coletados.
+        
+        A plataforma oferece suporte a lógicas complexas de formulários, processamento automatizado de dados, histórico de respostas e execução de tarefas assíncronas, fornecendo uma infraestrutura completa para análise da experiência do cliente e apoio à tomada de decisão estratégica.
         </p>
-        <p><strong>Tecnologias:</strong> FastAPI, Selenium, SQLAlchemy, Postgres, AWS (EC2, RDS)</p>
+        <p><strong>Tecnologias:</strong> FastAPI, Selenium, SQLAlchemy, Postgres, Docker, AWS (EC2, RDS)</p>
         <p>
             <a href="https://github.com/IvanCampelo22/askly" target="_blank">
                 Ver no GitHub
@@ -99,15 +102,18 @@
 
     <!-- PROJETO 3 -->
     <div class="project">
-        <h3>📌 Sistema de Autenticação & Sessões</h3>
+        <h3>PulseTrends</h3>
         <p>
-            Módulo de autenticação com JWT, múltiplos produtos, expiração de sessões,
-            renovação de tokens e auditoria para empresas diferentes.
+               PulseTrends é uma plataforma de automação e coleta de dados desenvolvida para profissionais e empresas que precisam de acesso rápido, confiável e em larga escala às tendências mais relevantes do momento, sem depender da interface manual do Google Trends.
+    
+    O sistema automatiza todo o processo de pesquisa, extração, tratamento e armazenamento de dados de tendências, permitindo consultas personalizadas por tema, região e período, com persistência em banco de dados e preparação dos dados para análises estratégicas e relatórios.
+    
+    A solução foi projetada com foco em alta performance, robustez operacional e escalabilidade, integrando RPA com processamento backend moderno e infraestrutura em nuvem.
         </p>
-        <p><strong>Tecnologias:</strong> FastAPI, JWT, SQLAlchemy, PostgreSQL</p>
+        <p><strong>Tecnologias:</strong> FastAPI, SQLAlchemy, PostgreSQL, Docker, Github Actions, AWS (EC2, RDS)</p>
         <p>
-            <a href="https://github.com/SEU_USUARIO/REPO" target="_blank">
-                🔗 Ver no GitHub
+            <a href="https://github.com/IvanCampelo22/pulse-trends" target="_blank">
+                Ver no GitHub
             </a>
         </p>
     </div>
