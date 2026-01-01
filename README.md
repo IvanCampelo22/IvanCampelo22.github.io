@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Ivan Campelo | Backend Developer</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
