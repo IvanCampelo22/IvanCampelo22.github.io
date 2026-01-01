@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -21,29 +23,30 @@ body {
     color: var(--text);
 }
 
-header {
-    padding: 56px 20px 32px;
+.hero {
     text-align: center;
+    padding: 72px 20px 48px;
     border-bottom: 1px solid var(--border);
 }
 
-header h1 {
+.hero h1 {
     margin: 0;
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 600;
 }
 
-header p {
-    margin: 8px 0;
+.subtitle {
+    margin: 10px 0 14px;
     color: var(--muted);
+    font-size: 15px;
 }
 
-header a {
+.links a {
     color: var(--link);
     text-decoration: none;
 }
 
-header a:hover {
+.links a:hover {
     text-decoration: underline;
 }
 
@@ -105,14 +108,14 @@ footer {
 
 <body>
 
-<header>
+<section class="hero">
     <h1>Ivan Campelo</h1>
-    <p>Desenvolvedor Backend Pleno • Python • Django • FastAPI • Celery • RabbitMQ</p>
-    <p>
+    <p class="subtitle">Desenvolvedor Backend Pleno • Python • Django • FastAPI • Celery • RabbitMQ</p>
+    <p class="links">
         <a href="https://github.com/IvanCampelo22" target="_blank">GitHub</a> |
         <a href="https://linkedin.com/in/ivan-campelo-700519202" target="_blank">LinkedIn</a>
     </p>
-</header>
+</section>
 
 <div class="container">
 
