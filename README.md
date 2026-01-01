@@ -74,7 +74,7 @@
         A aplicação permite o cadastro detalhado de clientes, a seleção de planos, a realização de aportes adicionais e o gerenciamento de resgates, garantindo controle, rastreabilidade e segurança em cada etapa do processo.
         O objetivo principal do sistema é oferecer uma visão clara e estruturada da jornada do cliente, apoiando decisões financeiras e proporcionando uma experiência simples e eficiente para usuários e administradores.
         </p>
-        <p><strong>Tecnologias:</strong> FastAPI, Celery, Redis, PostgreSQL, API REST, AWS (EC2, RDS)</p>
+        <p><strong>Tecnologias:</strong> FastAPI, Celery, Redis, PostgreSQL, API REST, WebSockets, AWS (EC2, RDS)</p>
         <p>
             <a href="https://github.com/IvanCampelo22/pension-one" target="_blank">
                 Ver no GitHub
