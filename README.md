@@ -148,12 +148,17 @@ PulseTrends é uma plataforma de automação e coleta de dados desenvolvida para
 </div>
 
 <div class="project">
-<h3>Bots de Integração Interna</h3>
+<h3>DataForge</h3>
 <p>
-Coleção de serviços para integração entre sistemas, incluindo filas, extração de dados e pipelines automáticos.
+Este projeto é uma plataforma especializada para empresas que lidam com grandes volumes de transferência de dados entre arquivos Excel e bancos de dados, eliminando processos manuais e reduzindo drasticamente erros operacionais.
+
+A solução permite a execução de consultas e operações diretamente no banco de dados, possibilitando a criação e modelagem de tabelas e esquemas personalizados de acordo com a estrutura de cada arquivo que será importado.
+Essa flexibilidade garante que os dados sejam organizados de forma consistente e adaptada a cada necessidade de negócio.
+
+O alto nível de abstração da plataforma possibilita que usuários sem conhecimento técnico aprofundado construam estruturas de dados capazes de alimentar dashboards, relatórios e fluxos de tratamento de informações, promovendo maior autonomia, produtividade e confiabilidade no uso dos dados.
 </p>
-<p><strong>Tecnologias:</strong> Python, Celery, RabbitMQ, APIs externas</p>
-<p><a href="https://github.com/SEU_USUARIO/REPO" target="_blank">Ver no GitHub</a></p>
+<p><strong>Tecnologias:</strong> Python, Postgres, Psycopg2, AWS (EC2, RDS)</p>
+<p><a href="https://github.com/IvanCampelo22/data-forge" target="_blank">Ver no GitHub</a></p>
 </div>
 
 </div>
