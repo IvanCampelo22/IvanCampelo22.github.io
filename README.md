@@ -124,8 +124,7 @@ footer {
 <div class="project">
 <h3>PensionOne</h3>
 <p>
-Sistema completo para gestão e análise de adesão a planos de previdência privada. 
-Permite cadastro de clientes, seleção de planos, aportes adicionais e resgates, garantindo controle, rastreabilidade e segurança em todo o ciclo do produto.
+Este projeto consiste em um sistema completo para gestão e análise de adesão a planos de previdência privada, desenvolvido para simular e organizar todo o ciclo de relacionamento entre cliente e produto financeiro. A aplicação permite o cadastro detalhado de clientes, a seleção de planos, a realização de aportes adicionais e o gerenciamento de resgates, garantindo controle, rastreabilidade e segurança em cada etapa do processo. O objetivo principal do sistema é oferecer uma visão clara e estruturada da jornada do cliente, apoiando decisões financeiras e proporcionando uma experiência simples e eficiente para usuários e administradores.
 </p>
 <p><strong>Tecnologias:</strong> FastAPI, Celery, Redis, PostgreSQL, API REST, WebSockets, AWS (EC2, RDS)</p>
 <p><a href="https://github.com/IvanCampelo22/pension-one" target="_blank">Ver no GitHub</a></p>
@@ -134,7 +133,7 @@ Permite cadastro de clientes, seleção de planos, aportes adicionais e resgates
 <div class="project">
 <h3>Askly</h3>
 <p>
-Plataforma backend para pesquisas de mercado e coleta de NPS, com formulários personalizáveis e distribuição via E-mail, WhatsApp e Telegram, processamento automatizado de dados e tarefas assíncronas.
+Askly é uma plataforma backend desenvolvida para empresas que buscam segurança, flexibilidade e escalabilidade no processo de realização de pesquisas de mercado e coleta de NPS (Net Promoter Score). Inspirado na robustez e na experiência dinâmica do Google Forms, o Askly permite a criação de formulários totalmente personalizáveis e sua distribuição por múltiplos canais, incluindo E-mail, WhatsApp e Telegram, aumentando significativamente a taxa de resposta e a qualidade dos dados coletados. A plataforma oferece suporte a lógicas complexas de formulários, processamento automatizado de dados, histórico de respostas e execução de tarefas assíncronas, fornecendo uma infraestrutura completa para análise da experiência do cliente e apoio à tomada de decisão estratégica.
 </p>
 <p><strong>Tecnologias:</strong> FastAPI, Selenium, SQLAlchemy, PostgreSQL, Docker, AWS (EC2, RDS)</p>
 <p><a href="https://github.com/IvanCampelo22/askly" target="_blank">Ver no GitHub</a></p>
@@ -143,7 +142,7 @@ Plataforma backend para pesquisas de mercado e coleta de NPS, com formulários p
 <div class="project">
 <h3>PulseTrends</h3>
 <p>
-Plataforma de automação e coleta de dados de tendências, com processamento em larga escala, consultas personalizadas e preparação de dados para análises estratégicas.
+PulseTrends é uma plataforma de automação e coleta de dados desenvolvida para profissionais e empresas que precisam de acesso rápido, confiável e em larga escala às tendências mais relevantes do momento, sem depender da interface manual do Google Trends. O sistema automatiza todo o processo de pesquisa, extração, tratamento e armazenamento de dados de tendências, permitindo consultas personalizadas por tema, região e período, com persistência em banco de dados e preparação dos dados para análises estratégicas e relatórios. A solução foi projetada com foco em alta performance, robustez operacional e escalabilidade, integrando RPA com processamento backend moderno e infraestrutura em nuvem.
 </p>
 <p><strong>Tecnologias:</strong> FastAPI, SQLAlchemy, PostgreSQL, Docker, GitHub Actions, AWS (EC2, RDS)</p>
 <p><a href="https://github.com/IvanCampelo22/pulse-trends" target="_blank">Ver no GitHub</a></p>
