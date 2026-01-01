@@ -109,7 +109,7 @@ footer {
 
 <section class="hero">
     <h1>Ivan Campelo</h1>
-    <p class="subtitle">Desenvolvedor Backend Pleno • Python • Django • FastAPI • Celery • RabbitMQ</p>
+    <p class="subtitle">Desenvolvedor Backend Pleno • Python • Django • FastAPI • LangChain • NestJs • Docker • JavaScript • TypeScript • AWS • GCP</p>
     <p class="links">
         <a href="https://github.com/IvanCampelo22" target="_blank">GitHub</a> |
         <a href="https://linkedin.com/in/ivan-campelo-700519202" target="_blank">LinkedIn</a>
