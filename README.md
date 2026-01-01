@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -85,16 +84,15 @@
 
     <!-- PROJETO 2 -->
     <div class="project">
-        <h3>📌 Automação de Compras & Leilões</h3>
+        <h3>Ascly</h3>
         <p>
-            Bot para automação de processos de compras: scraping, lances automáticos,
-            interações com fornecedores e notificações.  
-            Usa FastAPI + RabbitMQ + Selenium.
+            Plataforma backend para criação dinâmica de pesquisas e automação de NPS, com envio multi-canal e arquitetura escalável.
+            A plataforma oferece suporte a lógicas complexas de formulários, processamento automatizado de dados, histórico de respostas e execução de tarefas assíncronas, fornecendo uma infraestrutura completa para análise da experiência do cliente e apoio à tomada de decisão estratégica.
         </p>
-        <p><strong>Tecnologias:</strong> FastAPI, RabbitMQ, Selenium, SQLAlchemy</p>
+        <p><strong>Tecnologias:</strong> FastAPI, Selenium, SQLAlchemy, Postgres, AWS (EC2, RDS)</p>
         <p>
-            <a href="https://github.com/SEU_USUARIO/REPO" target="_blank">
-                🔗 Ver no GitHub
+            <a href="https://github.com/IvanCampelo22/askly" target="_blank">
+                Ver no GitHub
             </a>
         </p>
     </div>
